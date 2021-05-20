@@ -1,0 +1,61 @@
+body
+{
+    padding: 0px;
+    margin:0px;
+    font-size:17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    margin-top: 10rem;
+}
+
+.box{
+    height: 90px;
+    min-height: auto;
+
+}
+
+
+.logo
+{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px !important;
+    width: 10% !important;
+    float: initial;
+}
+
+.inputBox{
+    width: 30%;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+
+.google-search{
+  margin-top: 20px; 
+  height: 30px;
+  width: 120px; 
+  background-color: #d5e9fd;
+  border: none;
+}
+.google-search1{
+    width: 150px;
+    height: 30px;
+    margin-left: 15px;
+    background-color: #d8e8f8;
+    border: none;
+}
+.p1{
+    margin-top: 30px;
+}
+.fafasearch{
+    width: 10px;
+}
+
+
+.fa-search {
+    position: relative;
+    left: 38px;
+}
